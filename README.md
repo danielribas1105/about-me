@@ -3,15 +3,15 @@
 
 - 📱 Apps Android [App DR Personal Trainer](https://play.google.com/store/apps/details?id=com.apps.drpersonalmanager)
 
-- 🌱 Atualmente estou aprendendo sobre **Android, Angular e Cloud Computing**
-
 - 📱 Apps Android [App DR Personal - Aluno](https://play.google.com/store/apps/details?id=com.apps.drpersonal)
 
 - 🌐 Websites [Site para Psicóloga](https://psicologaangelacorrea.com.br/)
 
+- 🌱 Atualmente estou aprendendo sobre **Android, Angular e Cloud Computing**
+
 - 👨‍💻 Meu site profissional [https://smartbait.com.br/](https://smartbait.com.br/)
 
-- 🎓 Graduação e Pós-Graduação [Bacharel em Análise de Sistemas, Desenvolvimento Apps Android, Desenvolvimento Web, Marketing Digital](Bacharel em Análise de Sistemas, Desenvolvimento Apps Android, Desenvolvimento Web, Marketing Digital)
+- 🎓 Graduação e Pós-Graduação [Bacharel em Análise de Sistemas, Desenvolvimento Apps Android, Desenvolvimento Web, Marketing Digital]
 
 - 💬 Pergunte-me sobre **HTML, CSS, JAVA, SQL**
 
